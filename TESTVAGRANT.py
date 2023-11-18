@@ -72,7 +72,7 @@ for product in prod:
     if product.gst>max_gst:
         obj = product.n
         max_gst = product.gst
-        j+=1
+    j+=1
         
 print("The maximum gst among the product is: ",max_gst)
 print("The product for which we pay max GST amount is", obj)
