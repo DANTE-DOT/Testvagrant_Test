@@ -1,4 +1,8 @@
-print("NAME : DHANANJAY KUMAR"\nEmail : dhananjaykumar137c@gmail.com\nUSN : 1BI20AI009)
+'''
+NAME : DHANANJAY KUMAR
+EMAIL ID : dhananjaykumar137c@gmail.com
+USN : 1BI20AI009
+'''
 
 
 
