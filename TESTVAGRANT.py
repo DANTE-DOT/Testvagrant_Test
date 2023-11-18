@@ -1,3 +1,7 @@
+print("NAME : DHANANJAY KUMAR"\nEmail : dhananjaykumar137c@gmail.com\nUSN : 1BI20AI009)
+
+
+
 class shopKeeper:
     def __init__(self,name,uprice,gst,quantity):
         self.n = name
